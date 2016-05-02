@@ -1,5 +1,8 @@
 #OpenPeripheral user-friendly names
 #class_name	user_name
+cofh.thermalexpansion.block.cache.TileCache	tile_thermalexpansion_cache_basic_name
+cpw.mods.ironchest.TileEntityIronChest	iron
+dan200.computercraft.shared.turtle.blocks.TileTurtle	tile_computercraft_turtle_name
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
 net.minecraft.tileentity.TileEntityBrewingStand	brewing_stand

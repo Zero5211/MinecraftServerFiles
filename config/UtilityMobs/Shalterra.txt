@@ -1,0 +1,18 @@
+player_permissions
+111 
+111 nulliel
+111 Shalterra
+111 Zero5211
+111 CommissarVulpin
+
+whitelist
+Player
+UtilityMobs.GenericGolem
+Silverfish
+Skeleton
+Slime
+Spider
+Witch
+Zombie
+
+blacklist
